@@ -15,8 +15,9 @@
 ## 练手
 - [50个小项目](https://github.com/bradtraversy/50projects50days)
 - [深入解析css涉及项目](https://github.com/CSSInDepth/css-in-depth)
-- 后台
+- [后台](https://github.com/chuzhixin/vue-admin-better)
 - 博客
+- [freeCodeCamp](https://chinese.freecodecamp.org/learn)
 ## 网络
 - http (极客时间专栏)
 - 现代js教程网络部分
