@@ -32,3 +32,6 @@ The collection of tools and resources which is useful in the study and workflow
 * [深度学习论文](https://github.com/mli/paper-reading)
 ## 编程
 * [js](./javascript.md)
+## 软件教程
+* [alfred](https://zhuanlan.zhihu.com/p/35554921)
+* [obsidian多端同步](https://zhuanlan.zhihu.com/p/447963514)
