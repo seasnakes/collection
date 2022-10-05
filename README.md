@@ -6,13 +6,15 @@ The collection of tools and resources which is useful in the study and workflow
 * [AI念稿](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview)
 * [3D虚拟形象(可在线聊天)](https://3d.kalidoface.com/)
 * [一起看](https://github.com/VideoTogether/VideoTogether)
-* [录屏直播](https://obsproject.com/)
-* [AI翻译](https://www.deepl.com/translator)
+* [录屏直播(obs)](https://obsproject.com/)
+* [AI翻译(deepl)](https://www.deepl.com/translator)
 * [PPT模版、辅助创作](https://www.islide.cc/ppt/)
 * [捏脸头像制作](https://picrew.me/)
 * [AI作画(stable-diffusion)](https://beta.dreamstudio.ai/dream)
 * [AI拟声](https://github.com/babysor/MockingBird)
 * [AI前端](https://github.com/emilwallner/Screenshot-to-code)
+* [白板画图(excalidraw)](https://excalidraw.com/)
+* [键入可视化(keycastr-mac)](https://github.com/keycastr/keycastr)
 ## 开发
 * [element-UI后台](https://panjiachen.github.io/vue-element-admin-site/zh/)
 * [TCP/UDP测试工具](https://github.com/rangaofei/SSokit-qmake) 
@@ -31,6 +33,7 @@ The collection of tools and resources which is useful in the study and workflow
 * [anki](https://apps.ankiweb.net/)
 * [网页取词词典](https://github.com/ninja33/ODH)
 * [深度学习论文](https://github.com/mli/paper-reading)
+* [常见web开发api文档集合(devdocs)](https://devdocs.io/)
 ## 编程
 * [js](./javascript.md)
 ## 软件教程
