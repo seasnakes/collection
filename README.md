@@ -41,3 +41,5 @@ The collection of tools and resources which is useful in the study and workflow
 * [obsidian多端同步](https://zhuanlan.zhihu.com/p/447963514)
 * [VSCode开发环境搭建教程](https://zhuanlan.zhihu.com/p/565225457)
 * [计算机英语学习 工具准备](https://zhuanlan.zhihu.com/p/553187030)
+# 其他
+* https://github.com/Rem0o/FanControl.Releases
