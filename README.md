@@ -3,9 +3,11 @@ The collection of tools and resources which is useful in the study and workflow
 
 # 内容创作&社交
 * [markdown排版（知乎 公众号 掘金）](https://markdown.com.cn/editor/)
+* [picgo图床](https://picgo.github.io/PicGo-Doc/zh/)
 * [AI念稿(azure)](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview)
 * [3D虚拟形象(可在线聊天)](https://3d.kalidoface.com/)
 * [一起看](https://github.com/VideoTogether/VideoTogether)
+* [screen studio](https://www.screen.studio/)
 * [录屏直播(obs)](https://obsproject.com/)
 * [AI翻译(deepl)](https://www.deepl.com/translator)
 * [PPT模版、辅助创作(islide)](https://www.islide.cc/ppt/)
