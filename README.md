@@ -9,6 +9,7 @@ The collection of tools and resources which is useful in the study and workflow
 * [一起看](https://github.com/VideoTogether/VideoTogether)
 * [screen studio](https://www.screen.studio/)
 * [录屏直播(obs)](https://obsproject.com/)
+* [eagle](https://eagle.cool/)
 * [AI翻译(deepl)](https://www.deepl.com/translator)
 * [PPT模版、辅助创作(islide)](https://www.islide.cc/ppt/)
 * [捏脸头像制作](https://picrew.me/)
@@ -17,6 +18,7 @@ The collection of tools and resources which is useful in the study and workflow
 * [AI前端](https://github.com/emilwallner/Screenshot-to-code)
 * [白板画图(excalidraw)](https://excalidraw.com/)
 * [键入可视化(keycastr-mac)](https://github.com/keycastr/keycastr)
+* [视频字幕去除](https://github.com/YaoFANGUK/video-subtitle-remover/tree/main/backend)
 ## 开发
 * [element-UI后台](https://panjiachen.github.io/vue-element-admin-site/zh/)
 * [TCP/UDP测试工具](https://github.com/rangaofei/SSokit-qmake) 
@@ -28,6 +30,7 @@ The collection of tools and resources which is useful in the study and workflow
 * [壁纸(wallhaven)](https://wallhaven.cc/)
 * [电子书(zlib)](https://zh.3lib.net/)
 * [影视(在线之家)](zxzj.space)
+* [电视剧之家](https://www.1080its.com/)
 * [加密格式音乐破解(网易、酷狗、QQ)](https://demo.unlock-music.dev/)
 * [艾可云科学上网](https://api.v2aky.net/#/knowledge)
 # 学习
